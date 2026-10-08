@@ -74,3 +74,17 @@ Analýza vychádza z malej simulovanej databázy s 30 transakciami. Výsledky sl
 ## Postup analýzy
 
 **Business Problem → SQL Analysis → KPI Monitoring → Failure Segmentation → Root Cause Hypotheses → Recommendations**
+
+## Výsledky SQL analýzy
+
+### 1. KPI Overview
+![KPI Overview](screenshots/01_KPI_Overview.png)
+
+### 2. Transaction Type Analysis
+![Transaction Type Analysis](screenshots/02_Transaction_Type_Analysis.png)
+
+### 3. Failure Analysis
+![Failure Analysis](screenshots/03_Failure_Analysis.png)
+
+### 4. Investigation Summary
+![Investigation Summary](screenshots/04_Investigation_Summary.png)
